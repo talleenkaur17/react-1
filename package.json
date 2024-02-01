@@ -1,0 +1,46 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This react course",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talleenkaur17/react-1.git"
+  },
+  "keywords": [],
+  "author": "\"Talleen Kaur\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talleenkaur17/react-1/issues"
+  },
+  "homepage": "https://github.com/talleenkaur17/react-1#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-react": "^7.23.3",
+    "@testing-library/jest-dom": "^6.3.0",
+    "@testing-library/react": "^14.1.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.10.0",
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.6"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.20.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
