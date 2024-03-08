@@ -23,7 +23,7 @@ const Contact = () => {
               type="text"
               id="name"
               name="name"
-              placeholder="Eg: Aditya Verma"
+              placeholder="Eg: Talleen Kaur"
               className="mt-1 p-2 w-full border rounded-md focus:outline-none focus:border-pink-500"
             />
           </div>
